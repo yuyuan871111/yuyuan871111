@@ -10,9 +10,10 @@
 
 
 - 👋 Hi, I’m @yuyuan871111
-- 👀 I’m interested in bioinformatics, computational biology, molecular dynamics, deep learning, machine learning and quantum comuting.
-- 🌱 I’m currently learning the application of deep learning to assist neuroglogist in diagnosis.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in bioinformatics, computational biology, molecular dynamics, deep learning, machine learning and quantum computing.
+- 👀 I have worked on an application of deep learning to assist neurologist in the diagnosis
+- 🌱 I’m currently learning the semantic segmentation on protein surfaces at protein-ligand binding sites.
+- 💞️ I’m working in Arianna Fornili's lab (Queen Mary University of London), supervised by Richard Pickersgill and Arianna Fornili.
 - 📫 How to reach me:  
   > email: adp871111[at]gmail.com
 
