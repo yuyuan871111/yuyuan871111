@@ -14,26 +14,19 @@
   > email: adp871111[at]gmail.com
 
 
-<!---
-yuyuan871111/yuyuan871111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--
-Source - https://stackoverflow.com/a
-Posted by waldyr.ar, modified by community. See post 'Timeline' for change history
-Retrieved 2025-12-03, License - CC BY-SA 4.0
--->
-
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuyuan871111&theme=vue" />
+  <img src="https://raw.githubusercontent.com/yuyuan871111/yuyuan871111/main/profile-summary-card-output/vue/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuyuan871111&theme=vue" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuyuan871111&theme=vue" />
+  <img src="https://raw.githubusercontent.com/yuyuan871111/yuyuan871111/main/profile-summary-card-output/vue/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/yuyuan871111/yuyuan871111/main/profile-summary-card-output/vue/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuyuan871111&theme=vue" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuyuan871111&theme=vue" />
+  <img src="https://raw.githubusercontent.com/yuyuan871111/yuyuan871111/main/profile-summary-card-output/vue/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/yuyuan871111/yuyuan871111/main/profile-summary-card-output/vue/4-productive-time.svg" />
 </p>
+
+
+Cards are built with [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards).
